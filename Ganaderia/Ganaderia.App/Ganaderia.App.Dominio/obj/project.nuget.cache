@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IE97p1C29GJKDR9hwLUrZDVpi0/DB9OpHChrCRhTCHzkvc0TmM7MWd76+b9OyhKSM2G6Dvk9+HtQojXh8I1tNw==",
+  "dgSpecHash": "375MHyuUo12qcKeg7JSm5dKGGCzq36BbesPKQqbfD+puMujUnjkDtEScVsixKFZkmxODVS+oPNqeneq3wGDZiA==",
   "success": true,
-  "projectFilePath": "D:\\MINTIC\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
+  "projectFilePath": "C:\\AppServ\\www\\ciclo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

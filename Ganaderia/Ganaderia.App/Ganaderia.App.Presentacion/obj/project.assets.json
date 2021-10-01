@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Ganaderia.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Ganaderia.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ganaderia.App.Dominio.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Ganaderia.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Ganaderia.App.Dominio/Ganaderia.App.Dominio.csproj",
+      "msbuildProject": "../Ganaderia.App.Dominio/Ganaderia.App.Dominio.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Ganaderia.App.Dominio >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Sebastian\\.nuget\\packages\\": {}
@@ -30,7 +49,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\AppServ\\www\\ciclo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {
+              "projectPath": "C:\\AppServ\\www\\ciclo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
