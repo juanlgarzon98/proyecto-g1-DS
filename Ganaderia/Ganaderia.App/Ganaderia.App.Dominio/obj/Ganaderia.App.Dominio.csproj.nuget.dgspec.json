@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AppServ\\www\\ciclo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {}
+    "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\AppServ\\www\\ciclo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {
+    "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AppServ\\www\\ciclo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
         "projectName": "Ganaderia.App.Dominio",
-        "projectPath": "C:\\AppServ\\www\\ciclo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
-        "outputPath": "C:\\AppServ\\www\\ciclo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"

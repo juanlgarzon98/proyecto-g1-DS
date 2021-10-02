@@ -16,3 +16,12 @@ C:\AppServ\www\ciclo31\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\n
 C:\AppServ\www\ciclo31\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csproj.CoreCompileInputs.cache
 C:\AppServ\www\ciclo31\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
 C:\AppServ\www\ciclo31\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csprojAssemblyReference.cache
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.AssemblyInfo.cs
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.deps.json
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
