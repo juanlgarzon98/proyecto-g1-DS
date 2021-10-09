@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
         "projectName": "Ganaderia.App.Dominio",
         "projectPath": "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
