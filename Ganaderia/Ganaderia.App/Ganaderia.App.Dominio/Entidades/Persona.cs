@@ -8,5 +8,6 @@ namespace Ganaderia.App.Dominio
         public string NumeroTelefono { get; set; }
         public string Correo { get; set; }
         public string Contrasena { get; set;}
+        public string Usuario { get; set;}
     }
 }

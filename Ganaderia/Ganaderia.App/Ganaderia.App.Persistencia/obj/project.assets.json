@@ -7263,34 +7263,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
+    "C:\\Users\\erick\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MINTIC\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Persistencia\\Ganaderia.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Persistencia\\Ganaderia.App.Persistencia.csproj",
       "projectName": "Ganaderia.App.Persistencia",
-      "projectPath": "D:\\MINTIC\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Persistencia\\Ganaderia.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "D:\\MINTIC\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Persistencia\\obj\\",
+      "projectPath": "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Persistencia\\Ganaderia.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "D:\\MINTIC\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {
-              "projectPath": "D:\\MINTIC\\Grupo31\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj"
+            "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\erick\\Desktop\\mision tic\\ciclo 3\\Grupo 31\\proyecto-g1-DS\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj"
             }
           }
         }
@@ -7303,7 +7300,6 @@
     },
     "frameworks": {
       "netstandard2.1": {
-        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -7341,7 +7337,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

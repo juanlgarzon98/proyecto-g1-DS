@@ -10,3 +10,15 @@ D:\MINTIC\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\n
 D:\MINTIC\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CopyComplete
 D:\MINTIC\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
 D:\MINTIC\Grupo31\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.deps.json
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.AssemblyInfo.cs
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CopyComplete
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
+C:\Users\erick\Desktop\mision tic\ciclo 3\Grupo 31\proyecto-g1-DS\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
