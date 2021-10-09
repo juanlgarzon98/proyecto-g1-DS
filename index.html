@@ -1,0 +1,118 @@
+<html>
+
+<head>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <style>
+        input {
+            background: red;
+        }
+        
+        .label-form {
+            color: green;
+        }
+        
+        #l-name {
+            color: rgb(240, 72, 80);
+        }
+        
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+        
+        .button-mintic {
+            color: #fff;
+            background-color: yellow;
+            border-color: yellow;
+        }
+    </style>
+</head>
+
+<body>
+    <img class="img-circle" src="https://www.valoraanalitik.com/wp-content/uploads/2019/11/MIN-TIC.png" alt="Trulli" width="500" height="333">
+    <form action="/action_page.php">
+        <label class="label-form" for="fname">Email:</label><br>
+        <input type="text" id="fname" name="fname" value=""><br>
+        <label class="label-form" id="l-name" for="lname">Contraseña:</label><br>
+        <input type="text" id="lname" name="lname" value=""><br><br>
+        <input style="color: blue; background: chartreuse;" type="submit" value="Iniciar">
+    </form>
+
+    <div class="container">
+        <h2>Vertical (basic) form</h2>
+        <form action="/action_page.php">
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+            </div>
+            <div class="form-group">
+                <label for="pwd">Password:</label>
+                <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pwd">
+            </div>
+            <div class="checkbox">
+                <label><input type="checkbox" name="remember"> Remember me</label>
+            </div>
+            <button type="submit" class="btn button-mintic">Submit</button>
+        </form>
+    </div>
+
+    <table class="table">
+        <tr>
+            <th>Company</th>
+            <th>Contact</th>
+            <th>Country</th>
+        </tr>
+        <tr>
+            <td>Alfreds Futterkiste</td>
+            <td>Maria Anders</td>
+            <td>Germany</td>
+        </tr>
+        <tr>
+            <td>Centro comercial Moctezuma</td>
+            <td>Francisco Chang</td>
+            <td>Mexico</td>
+        </tr>
+        <tr>
+            <td>Ernst Handel</td>
+            <td>Roland Mendel</td>
+            <td>Austria</td>
+        </tr>
+        <tr>
+            <td>Island Trading</td>
+            <td>Helen Bennett</td>
+            <td>UK</td>
+        </tr>
+        <tr>
+            <td>Laughing Bacchus Winecellars</td>
+            <td>Yoshi Tannamuri</td>
+            <td>Canada</td>
+        </tr>
+        <tr>
+            <td>Magazzini Alimentari Riuniti</td>
+            <td>Giovanni Rovelli</td>
+            <td>Italy</td>
+        </tr>
+    </table>
+</body>
+
+
+</html>
