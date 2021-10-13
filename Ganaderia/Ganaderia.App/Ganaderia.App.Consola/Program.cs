@@ -37,6 +37,23 @@ namespace Ganaderia.App.Consola
 
 
         }
-        
+        private static void AddVeterinario()
+        {
+            var veterinario = new Veterinario
+            {
+                Nombres = "Juan",
+                Apellidos = "Cuadrado",
+                NumeroTelefono = "311511111",
+                Correo = "juancuadrado@mintic.edu.co",
+                Contrasena = "98765",
+                TargetaProfesional = 2131,
+                Especialidad = "asd"
+            };
+
+            _repositorioVeterinario.AddVeterinario(veterinario);
+
+
+        }
+
     }
 }
