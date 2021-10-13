@@ -6,7 +6,14 @@ namespace Ganaderia.App.Consola
 {
     class Program
     {
-        private static IRepositorioGanadero _repositorioGanadero = new RepositorioGanadero(new Persistencia.AppContext()); 
+        private static IRepositorioGanadero _repositorioGanadero = new RepositorioGanadero(new Persistencia.AppContext());
+        private static IRepositorioEjemplares _repositorioEjemplares = new RepositorioEjemplares(new Persistencia.AppContext()); 
+        private static IRepositorioFinca _repositorioFinca = new RepositorioFinca(new Persistencia.AppContext()); 
+        private static IRepositorioHistoriaClinica _repositorioHistoriaClinica = new RepositorioHistoriaClinica(new Persistencia.AppContext()); 
+        private static IRepositorioPersona _repositorioPersona = new RepositorioPersona(new Persistencia.AppContext()); 
+        private static IRepositorioSolicitud _repositorioSolucitud = new RepositorioSolicitud(new Persistencia.AppContext()); 
+        private static IRepositorioVacunas _repositorioVacunas = new RepositorioVacunas(new Persistencia.AppContext()); 
+        private static IRepositorioVeterinario _repositorioVeterinario = new RepositorioVeterinario(new Persistencia.AppContext()); 
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
