@@ -1,5 +1,7 @@
 using System;
 using Ganaderia.App.Dominio;
+using System.Linq;
+using System.Collections.Generic;
 
 namespace Ganaderia.App.Persistencia
 {

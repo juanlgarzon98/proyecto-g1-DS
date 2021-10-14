@@ -17,7 +17,9 @@ namespace Ganaderia.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            AddGanadero();
+            //AddGanadero();
+            //AddVeterinario();
+            AddEjemplares();
         }
 
         private static void AddGanadero()
@@ -29,6 +31,8 @@ namespace Ganaderia.App.Consola
                 NumeroTelefono = "3148596562",
                 Correo = "sergiomintic@mintic.edu.co",
                 Contrasena = "123456",
+                Ejemplares = 50,
+                Finca = "la conquista",
                 Latitud = 4554,
                 Longitud = 5454
             };
@@ -51,6 +55,24 @@ namespace Ganaderia.App.Consola
             };
 
             _repositorioVeterinario.AddVeterinario(veterinario);
+
+
+        }
+         private static void AddEjemplares()
+        {
+            var ejemplares = new Ejemplares
+            {
+                Raza = "Juan",
+                FechaIngreso = DateTime.Now,
+                Peso = "juancuadrado@mintic.edu.co",
+                Genero = "98765",
+                HistoriaClinica = null,
+                veterinario = null,
+                vacunas = null
+
+            };
+
+            _repositorioEjemplares.AddEjemplares(ejemplares);
 
 
         }

@@ -1,5 +1,7 @@
 using System;
 using Ganaderia.App.Dominio;
+using System.Linq;
+using System.Collections.Generic;
 
 namespace Ganaderia.App.Persistencia
 {
@@ -17,5 +19,10 @@ namespace Ganaderia.App.Persistencia
             _appContext.SaveChanges();
         }
 
+        Ejemplares IRepositorioEjemplares.UpdateEjemplares(Ejemplares ejemplares)
+        {
+            var ejemplaresEncontrado = _appContext.Ejemplares.FirstOrDefault(e => e.Id == ejemplaresId);
+            return ejemplares;   
+        }
     } 
 }
