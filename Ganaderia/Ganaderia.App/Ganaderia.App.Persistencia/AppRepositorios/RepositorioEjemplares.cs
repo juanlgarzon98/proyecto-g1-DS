@@ -21,7 +21,7 @@ namespace Ganaderia.App.Persistencia
 
         Ejemplares IRepositorioEjemplares.UpdateEjemplares(Ejemplares ejemplares)
         {
-            var ejemplaresEncontrado = _appContext.Ejemplares.FirstOrDefault(e => e.Id == ejemplaresId);
+            var ejemplaresEncontrado = _appContext.Ejemplares.FirstOrDefault(e => e.Id == ejemplares.Id);
             return ejemplares;   
         }
     } 
