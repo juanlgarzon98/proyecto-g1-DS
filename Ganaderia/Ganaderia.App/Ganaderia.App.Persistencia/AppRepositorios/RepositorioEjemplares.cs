@@ -19,10 +19,16 @@ namespace Ganaderia.App.Persistencia
             _appContext.SaveChanges();
         }
 
-        Ejemplares IRepositorioEjemplares.UpdateEjemplares(Ejemplares ejemplares)
+        Ejemplares IRepositorioEjemplares.AsignarVeterinarioAEjemplares(int idEjemplares, int idVeterinario)
         {
-            var ejemplaresEncontrado = _appContext.Ejemplares.FirstOrDefault(e => e.Id == ejemplares.Id);
-            return ejemplares;   
+            var ejemplaresEncontrado = _appContext.Ejemplares.FirstOrDefault(e => e.Id == idEjemplares);
+            var veterinarioEncontrado = _appContext.Veterinario.FirstOrDefault(e => e.Id == idEjemplares);
+
+            if (ejemplaresEncontrado != null && veterinarioEncontrado != null) {
+                ejemplaresEncontrado.veterinario = veterinarioEncontrado;
+                  _appContext.SaveChanges();
+            }
+            return ejemplaresEncontrado;   
         }
     } 
 }

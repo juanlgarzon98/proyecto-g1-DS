@@ -62,13 +62,14 @@ namespace Ganaderia.App.Consola
         {
             var ejemplares = new Ejemplares
             {
-                Raza = "Juan",
+                Raza = "Holstein",
                 FechaIngreso = DateTime.Now,
-                Peso = "juancuadrado@mintic.edu.co",
-                Genero = "98765",
+                Peso = "350KG",
+                Genero = "MASCULINO",
                 HistoriaClinica = null,
                 veterinario = null,
                 vacunas = null
+                
 
             };
 
